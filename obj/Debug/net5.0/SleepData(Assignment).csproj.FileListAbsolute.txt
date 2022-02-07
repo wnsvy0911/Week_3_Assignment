@@ -1,0 +1,16 @@
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\bin\Debug\net5.0\SleepData(Assignment).exe
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\bin\Debug\net5.0\SleepData(Assignment).deps.json
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\bin\Debug\net5.0\SleepData(Assignment).runtimeconfig.json
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\bin\Debug\net5.0\SleepData(Assignment).runtimeconfig.dev.json
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\bin\Debug\net5.0\SleepData(Assignment).dll
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\bin\Debug\net5.0\ref\SleepData(Assignment).dll
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\bin\Debug\net5.0\SleepData(Assignment).pdb
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\obj\Debug\net5.0\SleepData(Assignment).csproj.AssemblyReference.cache
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\obj\Debug\net5.0\SleepData(Assignment).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\obj\Debug\net5.0\SleepData(Assignment).AssemblyInfoInputs.cache
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\obj\Debug\net5.0\SleepData(Assignment).AssemblyInfo.cs
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\obj\Debug\net5.0\SleepData(Assignment).csproj.CoreCompileInputs.cache
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\obj\Debug\net5.0\SleepData(Assignment).dll
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\obj\Debug\net5.0\ref\SleepData(Assignment).dll
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\obj\Debug\net5.0\SleepData(Assignment).pdb
+C:\Users\jkim26\Desktop\Net Databases Programming\SleepData(Assignment)\obj\Debug\net5.0\SleepData(Assignment).genruntimeconfig.cache
